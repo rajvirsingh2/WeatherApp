@@ -5,6 +5,7 @@ import android.util.Log
 import android.widget.SearchView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
+import com.example.weatherapp.Data.WeatherApp
 import com.example.weatherapp.databinding.ActivityMainBinding
 import retrofit2.Call
 import retrofit2.Callback
