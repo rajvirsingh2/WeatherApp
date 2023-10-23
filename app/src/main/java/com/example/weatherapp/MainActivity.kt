@@ -152,7 +152,7 @@ class MainActivity : AppCompatActivity() {
                     binding.visibilityValue.text = "$visibility m"
                     binding.day.text = day(System.currentTimeMillis())
                     binding.date.text = date()
-                    binding.location.text = "$cityName"
+                    binding.location.text = cityName.toUpperCase()
                     binding.maxTemp.text = "Max Temp: $maxTemp"
                     binding.minTemp.text = "Min Temp: $minTemp"
                     changeBackground(condition)
