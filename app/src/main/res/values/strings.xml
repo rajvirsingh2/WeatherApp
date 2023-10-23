@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_app">Weather </string>
+    <string name="weather_app_1">APP </string>
+
+    <style name="weather_for">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#D8D8D8</item>
+    </style>
+
+    <style name="today">
+        <item name="android:textSize">19.38sp</item>
+        <item name="android:textColor">#EFAA82</item>
+    </style>
+
+    <string name="today">
+        Today
+    </string>
+</resources>
