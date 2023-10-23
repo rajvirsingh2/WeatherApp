@@ -161,10 +161,9 @@
 
             <TextView
                 android:id="@+id/location"
-                android:layout_width="114dp"
+                android:layout_width="207dp"
                 android:layout_height="35dp"
                 android:layout_marginTop="171dp"
-                android:gravity="center"
                 android:textColor="@color/sunny_temp"
                 android:textSize="20sp"
                 android:textStyle="bold"
