@@ -182,4 +182,8 @@ class MainActivity : AppCompatActivity() {
         return sdf.format((Date(timeStamp*1000)))
     }
 
+    override fun onBackPressed() {
+        super.onBackPressed()
+        finishAffinity()
+    }
 }
